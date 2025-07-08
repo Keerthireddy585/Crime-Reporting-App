@@ -13,4 +13,12 @@ A mobile application that allows users to report crimes, file complaints, and po
 - Android Studio (Java/XML)
 - Firebase Realtime Database
 
+## Project Structure
+Includes:
+- Activities: Register, Login, AddComplaint, AdminDashboard
+- Layouts: Matching XML files for each screen
+- Manifest: All activities declared
+
+
+
   
