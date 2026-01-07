@@ -41,9 +41,9 @@ The system includes both user and admin functionalities within the same applicat
 ## Prerequisites
 Before running the application, ensure the following are available:
 
-- Android Studio (latest stable version) – [here](https://developer.android.com/studio)
+- Android Studio (latest stable version) - [here](https://developer.android.com/studio)
 - Java JDK
-- Firebase account with Realtime Database and Authentication enabled – [here](https://console.firebase.google.com)
+- Firebase account with Realtime Database and Authentication enabled - [here](https://console.firebase.google.com)
 - Android device or emulator
 - Active internet connection (required for Firebase services)
 
