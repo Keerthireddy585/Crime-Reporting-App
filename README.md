@@ -33,9 +33,9 @@ The system includes both user and admin functionalities within the same applicat
 
 
 ## Project Structure
-- `app/java/` – Android activities (Register, Login, AddComplaint, AdminDashboard, etc.)
-- `app/res/layout/` – XML layout files for UI screens
-- `AndroidManifest.xml` – Application configuration and permissions
+- `app/java/` - Android activities (Register, Login, AddComplaint, AdminDashboard, etc.)
+- `app/res/layout/` - XML layout files for UI screens
+- `AndroidManifest.xml` - Application configuration and permissions
 
 
 ## Prerequisites
