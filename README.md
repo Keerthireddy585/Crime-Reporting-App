@@ -33,9 +33,11 @@ The system includes both user and admin functionalities within the same applicat
 
 
 ## Project Structure
-- `app/java/` - Android activities (Register, Login, AddComplaint, AdminDashboard, etc.)
-- `app/res/layout/` - XML layout files for UI screens
-- `AndroidManifest.xml` - Application configuration and permissions
+- Java files - Android activities (Register, Login, AddComplaint, AdminDashboard)
+- XML files - UI layout definitions
+- docs/ - Architecture and data flow diagrams
+- screenshots/ - Application UI screenshots
+- AndroidManifest.xml - Application configuration and permissions
 
 
 ## Prerequisites
@@ -93,6 +95,7 @@ This section describes the high-level workflow of the application:
 
 ## Testing
 The application has been tested using:
+
 - Unit testing for core logic
 - Integration testing for Firebase connectivity
 - Functional testing for user and admin workflows
